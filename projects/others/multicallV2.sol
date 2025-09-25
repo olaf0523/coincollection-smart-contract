@@ -15,7 +15,7 @@ contract Multicall2 {
     struct Result {
         bool success;
         bytes returnData;
-    }
+    }       
 
     function aggregate(Call[] memory calls) public returns (uint256 blockNumber, bytes[] memory returnData) {
         blockNumber = block.number;
