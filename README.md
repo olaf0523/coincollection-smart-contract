@@ -4,7 +4,7 @@ This repo contains all the contracts used in PancakeSwap. It is divided in indep
 
 ## Existing projects
 
-| Project name                                                          | Description                                                                                                                | Solidity version(s)      |
+| Project name                                                          | Description                                                                                                                | Solidity version(s)      |        
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [BSC Library](./projects/bsc-library)                                 | Legacy implementation of BEP20/IBEP20/SafeBEP20. Not to be used for new contracts.                                         | 0.6.12                   |
 | [Cake Vault](./projects/cake-vault)                                   | CAKE vault ("AutoPool") contract that allows auto-compounding for CAKE tokens.                                             | 0.6.12                   |
