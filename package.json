@@ -14,7 +14,7 @@
     "format:write": "prettier --write 'projects/**/*.{js,ts,sol}'",
     "prepare": "husky install",
     "test": "lerna run test"
-  },
+  },              
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
