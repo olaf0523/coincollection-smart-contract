@@ -5,7 +5,7 @@
         "internalType": "contract IBEP20",
         "name": "_lp",
         "type": "address"
-      },
+      },       
       {
         "internalType": "contract IBEP20",
         "name": "_rewardToken",
