@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-
+       
 pragma solidity >=0.5.16;
 
 import './interfaces/ICoinCollectERC20.sol';
@@ -22,7 +22,7 @@ contract CoinCollectERC20 is ICoinCollectERC20 {
 
     //event Approval(address indexed owner, address indexed spender, uint value);
     //event Transfer(address indexed from, address indexed to, uint value);
-
+        
     constructor() {
         uint chainId;
         assembly {
